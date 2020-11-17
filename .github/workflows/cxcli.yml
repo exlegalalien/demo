@@ -27,7 +27,7 @@ jobs:
         cxServer: https://cxprivatecloud.checkmarx.net
         cxProject: App
         cxToken: ${{ secrets.CHECKMARX_TOKEN }}
-        cxTeam: 'CxServer/SP/America/Igor-Sandbox'
+        cxTeam: CxServer/SP/America/Igor-Sandbox
         cxHigh: 0
         cxMedium: 0
         cxLow: 0
